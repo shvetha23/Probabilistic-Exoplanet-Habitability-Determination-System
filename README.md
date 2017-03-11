@@ -8,3 +8,6 @@
 2.	Compile the network
 3.	Plug in the available information (i.e. Mass, Radius)
 4.	The changes will be reflected in the connected nodes
+
+##References
+http://phl.upr.edu/library/notes/habitabilitymetricsandclassificationsforexoplanets
