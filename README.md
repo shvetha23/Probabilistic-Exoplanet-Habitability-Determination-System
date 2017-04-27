@@ -3,6 +3,9 @@
 ## Description
 ‘Probabilistic Exoplanet Habitability Determination System’ uses a Bayesian network to determine as to whether an Exoplanet could be considered habitable or not based on the available information present for that particular Exoplanet
 
+## Tools
+* Netica
+
 ## Run
 1.	Copy the file ExoPlanetDetermination.dne to your system
 2.	Compile the network
